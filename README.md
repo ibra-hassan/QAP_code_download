@@ -14,7 +14,7 @@ Script for download code from [Quick Admin Panel](quickadminpanel.com) by using 
 Install the dependencies .
 
 ```sh
-$ git clone https://github.com/Eng-HeMo/QAP_code_download.git
+$ git clone https://github.com/ibra-hassan/QAP_code_download.git
 $ cd QAP_code_download
 $ virtualenv venv                               [Create virtualenv]
 $ venv\Scripts\activate                         [To activate virtualenv]
